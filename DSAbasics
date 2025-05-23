@@ -1,0 +1,71 @@
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+TIME AND SPACE COMPLEXITY
+
+omega (best case)
+theta (average case)
+big O (worst case)
+
+we find time and space in worst case 
+{
+O(constant) or O(1)
+O(n)
+O(n^2)
+O(n^3)
+logn
+nlogn
+2^n
+}
+
+
+O(1) or O(constant) ===>
+
+eg:
+
+      for(int i=0; i<100; i++) {
+        syso("hello")
+      }
+
+
+
+// STACK
+stack is a linear data structure in which insertion and deletion happens only at one end (LIFO).
+stack can be created using array, linkedlist, collections.
+stack with the help of array then the size of array is fix and size of array is also fix. not good option
+in linkedlist, it takes extra space . not good option
+
+Collections internally uses arraylist and linkedlist combination.
+The Java Collections Framework is a set of classes and interfaces that help you store, retrieve, 
+and manipulate groups of data (like lists, sets, maps, etc.)
+
+
+
+
+// queue
+it is a linear data structure which works on FIFO.
+in queue deletion is from front and insertion is from rear/back.
+
+front/head - dequeue
+rear/back/tail - enqueue
+
+types of queue
+1. simple queue
+2. double ended queue --> input restricted queue and out restricted queue
+3. circular queue
+4. priority queue --> ascending and decending priority queue.
+
+*** ways of creating queue ***
+array, linkedlist, collections
+
+collections uses internally linkedlist and array dequeue.
+
+** operations in queue ** -->
+create queue -- to create a queue as an empty queue
+enqueue -- to insert an element in a q.
+dequeue -- to access and remove an element of q
+peek -- to access the first element of the q without removing it
+isfull -- to check whether the q is full.
+isempty -- to check whether the q is empty. 
