@@ -1,4 +1,4 @@
-package impininterview;
+package importantq;
 /* write a program to find all the leaders in an array. an element is a leader if it is greater than all the elements
 to its right side
 eg:
@@ -34,5 +34,3 @@ Compare 3 with 5: 3 < 5, so 3 is not a leader.
 Compare 4 with 5: 4 < 5, so 4 is not a leader.
 Compare 17 with 5: 17 > 5, so 17 is a leader, and maxFromRight is updated to 17.
 Compare 16 with 17: 16 < 17, so 16 is not a leader.*/
-
-// one more approach

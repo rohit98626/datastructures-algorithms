@@ -1,3 +1,5 @@
+// basic linkedlist codes-> add first and last , delete first, delete last
+
 package LinkedList;
 
 public class basicll {
@@ -7,7 +9,6 @@ public class basicll {
   basicll() {
     this.size = 0;
   }
-
 
 
   class Node {
@@ -93,6 +94,7 @@ public class basicll {
     return size;
   }
 
+  // main function
   public static void main(String[] args) {
     basicll list = new basicll();
     list.addFirst("a");

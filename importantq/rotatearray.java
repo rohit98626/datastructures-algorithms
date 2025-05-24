@@ -1,5 +1,5 @@
-package impininterview;
-// rotate an array 
+// rotate an array
+package importantq;
 public class rotatearray {
   public static void main(String[] args) {
 

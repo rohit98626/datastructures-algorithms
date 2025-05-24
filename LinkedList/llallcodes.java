@@ -16,10 +16,10 @@ class Node {                                          /*Node class (the building
     }
 }
 
-class ling1 {
+class llallcodes {
     static Node head;
 
-    ling1() {
+    llallcodes() {
         head = null;
     }
 

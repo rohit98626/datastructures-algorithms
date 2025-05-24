@@ -10,7 +10,7 @@ output arr[] {20,8,10,4,6,2}
     swap 1st two elements -- 3,2,6,5,20,10,100,80
 */
 
-package impininterview;
+package importantq;
 import java.util.*;
 
 public class wavearray {

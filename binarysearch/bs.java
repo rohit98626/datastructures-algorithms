@@ -1,5 +1,4 @@
 // basic binary search code
-
 package binarysearch;
 
 import java.util.*;

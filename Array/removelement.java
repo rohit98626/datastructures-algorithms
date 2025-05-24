@@ -13,8 +13,6 @@ public class removelement {
     for(int i = 0; i < newLength; i++){
       System.out.print(nums[i] + "");
     }
-
-    
   }
 
   public static int removeElement(int[] nums, int val){

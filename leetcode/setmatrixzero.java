@@ -1,5 +1,5 @@
 // leetcode problem 73 || set matrix zeros (imp.)
-package impininterview;
+package leetcode;
 
 public class setmatrixzero {
   public static void main(String[] args) {

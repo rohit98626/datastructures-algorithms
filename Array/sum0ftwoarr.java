@@ -1,6 +1,6 @@
 package Array;
 // take 2 arrays and add the sum of all elements
-public class array1 {
+public class sum0ftwoarr {
   public static void main(String[] args) {
     int[] arr = {1,3,5,9,2,7};
     int[] arr2 = {32,11,5,6,9,1};

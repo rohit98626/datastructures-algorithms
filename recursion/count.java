@@ -18,6 +18,7 @@ public class count {
     int[] arr = {2,3,5,2,7,5,2,1,2};
     Scanner sc = new Scanner(System.in);
     int x = sc.nextInt();
+    sc.close();
 
     System.out.println("count of " + x  + Occurence(arr, x, 0));
   }

@@ -1,6 +1,5 @@
 // find maximum of an array using recursion
 package recursion;
-import java.util.*;
 
 public class maxi {
   public static int maximum(int[] arr, int index) {

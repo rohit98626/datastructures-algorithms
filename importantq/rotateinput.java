@@ -1,8 +1,8 @@
-package impininterview;
-// rotate an array, when user inputs
+// rotate an array when user inputs value
+package importantq;
 import java.util.Scanner;
 
-public class rotate2 {
+public class rotateinput {
   public static void main(String[] args) {
     int[] arr = {10, 11, 12, 13, 14, 15, 16};
 
