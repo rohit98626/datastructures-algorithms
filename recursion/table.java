@@ -1,4 +1,5 @@
 // write a program to print a table of a number 
+// Time Complexity = O(10) = O(1) (Constant time)
 package recursion;
 
 import java.util.*;

@@ -1,5 +1,7 @@
 // reverse array (int [] arr, int start, int end )
 // arr- 10,20,30,40,50
+// time complexity O(n)
+
 package recursion;
 import java.util.Arrays;
 

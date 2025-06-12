@@ -1,4 +1,5 @@
 // write a program to print natural numbers from n to 10 
+// time complexity = recursive O(1) constant, iterative O(1).
 package recursion;
 
 public class SimpleRecursion {

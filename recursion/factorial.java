@@ -1,4 +1,5 @@
 // write a program to find the factorial of a number 
+// time complexity O(n)
 package recursion;
 import java.util.*;
 
@@ -14,6 +15,5 @@ public class factorial {
     sc.close();
 
     System.out.println("factorial of "+ x + " is: " + fac(x));
-    fac(x);
   }
 }

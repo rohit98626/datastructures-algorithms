@@ -1,4 +1,5 @@
 // write a program to find the sum of n natural numbers 
+// time complexity O(n)
 package recursion;
 import java.util.*;
 

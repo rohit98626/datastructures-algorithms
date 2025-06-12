@@ -1,5 +1,5 @@
 // leetcode q. 3 longest substring without repeating characters
-package leetcode;
+package stringd;
 
 import java.util.HashMap;
 import java.util.Scanner;

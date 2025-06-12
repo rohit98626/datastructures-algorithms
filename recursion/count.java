@@ -1,4 +1,5 @@
 // count how many times the element x appears in the given array using recursion
+// time complexity O(n)
 package recursion;
 import java.util.*;
 
@@ -20,6 +21,6 @@ public class count {
     int x = sc.nextInt();
     sc.close();
 
-    System.out.println("count of " + x  + Occurence(arr, x, 0));
+    System.out.println(" count of " + x + " = " + Occurence(arr, x, 0));
   }
 }

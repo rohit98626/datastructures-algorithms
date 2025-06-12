@@ -1,4 +1,5 @@
 // find maximum of an array using recursion
+// time complexity = O(n)
 package recursion;
 
 public class maxi {

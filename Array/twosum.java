@@ -1,5 +1,5 @@
 // leetcode question 1. Two sum 
-package leetcode;
+package Array;
 
 import java.util.*;
 

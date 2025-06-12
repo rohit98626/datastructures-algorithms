@@ -1,5 +1,5 @@
 // leetcode q. 58 length of last word
-package leetcode;
+package stringd;
 import java.util.*;
 
 public class lengthoflastword {
