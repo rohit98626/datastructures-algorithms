@@ -26,5 +26,6 @@ public class basictwodarray{
       }
       System.out.println();
     }
+    sc.close();
   }
 }

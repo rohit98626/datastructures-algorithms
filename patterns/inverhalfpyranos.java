@@ -1,3 +1,4 @@
+// invert half pyramid
 package patterns;
 import java.util.*;
 
@@ -14,5 +15,6 @@ public class inverhalfpyranos {
       }
       System.out.println();
     }
+    sc.close();
   }
 }

@@ -1,3 +1,4 @@
+// half pyramid with numbers 
 package patterns;
 import java.util.*;
 
@@ -14,5 +15,6 @@ public class halfpyrawithnos {
       }
       System.out.println();
     }
+    sc.close();
   } 
 }

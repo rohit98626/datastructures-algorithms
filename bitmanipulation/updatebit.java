@@ -18,5 +18,6 @@ public class updatebit {
       int newNumber = newBitmask & n;
       System.out.println(newNumber);
     }
+    sc.close();
   }
 }

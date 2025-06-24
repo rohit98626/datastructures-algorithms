@@ -24,7 +24,7 @@ public class basicstack {
     System.out.println();
     System.out.println("iterator");
 
-    Iterator it = ob.iterator();
+    Iterator<Integer> it = ob.iterator();
       while(it.hasNext()){
         System.out.println(it.next()+ "");
     }
