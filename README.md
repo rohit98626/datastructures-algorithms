@@ -16,3 +16,4 @@ Topics Included so far are :
 -> 2D-Array
 -> Merge sort
 -> Quick sort
+-> ArrayList
