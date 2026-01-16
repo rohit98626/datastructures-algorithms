@@ -11,7 +11,7 @@ public class removelement {
     System.out.println("new length " + newLength);
     System.out.println("updated array :");
     for(int i = 0; i < newLength; i++){
-      System.out.print(nums[i] + "");
+      System.out.print(nums[i] + " ");
     }
   }
 
