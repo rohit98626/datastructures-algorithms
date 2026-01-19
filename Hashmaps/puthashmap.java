@@ -41,6 +41,7 @@ public class puthashmap {
       return -1;
     }
 
+    @SuppressWarnings("unchecked")
     private void rehash() {
       LinkedList<Node>[] oldBuckets = buckets;
 
