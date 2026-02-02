@@ -1,4 +1,6 @@
 // leetcode q. 3 longest substring without repeating characters
+
+// using hashmap + sliding window
 package stringd;
 
 import java.util.HashMap;
