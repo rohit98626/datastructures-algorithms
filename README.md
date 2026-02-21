@@ -111,3 +111,4 @@ Questions ->
 72. Subarray sum equals k  (Prefix sum approach using unordered hashing)
 73. set matrix zeros
 74. input matrix from the user. search for a given number x and print the indices at which it occurs.
+75. Contains Duplicate
