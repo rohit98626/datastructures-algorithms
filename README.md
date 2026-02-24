@@ -39,35 +39,35 @@ Topics Included so far are :
 Questions ->
 1. sum of average of all elements
 2. product of array except self   
-3. product of array except self  (Optimized time and space both)
+3. product of array except self  (Optimized time and space both)        {IMPORTANT}
 4. product of array except self  (Optimized space)
 5. Container With Most Water  (Brute Force)
-6. Container With Most Water  (Optimized)
+6. Container With Most Water  (Optimized)   {IMPORTANT}
 7. count elements greater than previous average
 8. count occurance of a number in an array 
 9. find if the array contians duplicate element (Ans in Boolean)
 10. find even and odd elements in an array
 11. return the majority element 
 12. range sum query (Brute Force)
-13. range sum query (Optimized)
+13. range sum query (Optimized)           {IMPORTANT}
 14. 3 sum  (Brute Force)
-15. 3 sum  (Optimized)
-16. trapping rain water  (Prefix Array Approach)
+15. 3 sum  (Optimized)       {IMPORTANT}
+16. trapping rain water  (Prefix Array Approach)   {IMPORTANT}
 17. trapping rain water (Two Pointer Approach)  
 18. Find Maximum from an array
 19. Find Minimum from an array
 20. Two sum 
-21. Two sum (Using HashMap)
-22. Pivot Index
+21. Two sum (Using HashMap)    {IMPORTANT}
+22. Pivot Index                {IMPORTANT}
 23. MoveZeros
 24. remove duplicate element from the sorted array
 25. remove element of the occurance of value (val) from an array
 26. Reverse an Array
 27. Separate square 1
-28. Find maximum Profit from a Stock
+28. Find maximum Profit from a Stock        {IMPORTANT}
 29. the sum of all elements in 2 arrays
 30. sum of all elements in array
-31. n Queens
+31. n Queens                             {IMPORTANT}
 32. number of digit one
 33. count frequency of each element using hashmap
 34. find all the leaders in an array
@@ -95,11 +95,11 @@ Questions ->
 56. Pattern Invert Half Pyramid
 57. Pattern Half Pyramid rotated by 180 Degree
 58. Sliding Window Maximum
-59. Sliding Window Maximum (using Monotonic stack deque)
+59. Sliding Window Maximum (using Monotonic stack deque)       {IMPORTANT}
 60. check if brackets in a string are balanced 
 61. Reverse a String using Stack
 62. length of last word
-63. longest substring without repeating characters (using Hashmap + sliding window) <Best Approach>
+63. longest substring without repeating characters (using Hashmap + sliding window) <Best Approach>    {IMPORTANT}
 64. longest substring without repeating characters (using Hashset + sliding window) 
 65. longest substring without repeating characters (Brute Force)
 66. Reverse a String
@@ -108,7 +108,7 @@ Questions ->
 69. Maximum Subarray sum  (kadane's algorithm)
 70. minimum size subarray sum
 71. Subarray sum equals k  (Brute Force)
-72. Subarray sum equals k  (Prefix sum approach using unordered hashing)
+72. Subarray sum equals k  (Prefix sum approach using unordered hashing)            {IMPORTANT}
 73. set matrix zeros
 74. input matrix from the user. search for a given number x and print the indices at which it occurs.
 75. Contains Duplicate
