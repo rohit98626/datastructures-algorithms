@@ -113,3 +113,4 @@ Questions ->
 74. input matrix from the user. search for a given number x and print the indices at which it occurs.
 75. Contains Duplicate
 76. Binary Gap
+77. First Missing Positive   {IMPORTANT}
